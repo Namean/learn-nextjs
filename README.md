@@ -11,6 +11,8 @@ https://nextjs.org/learn/dashboard-app
 [What we'll be building](https://nextjs.org/learn/dashboard-app#what-well-be-building)
 
 
+## [repo - nextjs-dashboard](https://github.com/Namean/nextjs-dashboard)
+
 ## Overview
 
 Here's an overview of features you'll learn about in this course:
